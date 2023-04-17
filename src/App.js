@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css';
 import PreNavbar from './components/PreNavbar';
 import Navbar from './components/Navbar';
